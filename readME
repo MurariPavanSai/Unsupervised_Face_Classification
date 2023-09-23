@@ -1,15 +1,16 @@
-# Face Classification and Clustering Project
+# **Face Classification and Clustering Project**
 
-## Table of Contents
-- [Abstract](#abstract)
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Theoretical Background](#theoretical-background)
-- [Model Explanation](#model-explanation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributor](#contributor)
-- [License](#license)
+## **Table of Contents**
+- [**Abstract**](#abstract)
+- [**Introduction**](#introduction)
+- [**Dataset**](#dataset)
+- [**Theoretical Background**](#theoretical-background)
+- [**Model Explanation**](#model-explanation)
+- [**Getting Started**](#getting-started)
+- [**Usage**](#usage)
+- [**Contributors**](#contributors)
+- [**License**](#license)
+
 
 ## Abstract
 The aim of this project is to classify faces from a virtual meeting using an unsupervised method. While humans can easily perform this task, even under varying light conditions and when faces change due to age or accessories, automating face classification is a challenging problem. In this project, we focus on face recognition within a dataset containing images of people from a virtual meeting. The approach involves extracting embeddings from the images and clustering these embeddings to group faces based on the person's identity.
