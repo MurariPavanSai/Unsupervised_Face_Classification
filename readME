@@ -1,16 +1,5 @@
 # Face Classification using Unsupervised Approach
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Abstract](#abstract)
-- [Dataset](#dataset)
-- [Theoretical Background](#theoretical-background)
-- [Model Explanation](#model-explanation)
-- [Clustering](#clustering)
-- [DBSCAN (Density-based Clustering)](#dbscan-density-based-clustering)
-- [Getting Started](#getting-started)
-- [Contributor](#contributor)
-
 ## Introduction
 This project focuses on classifying faces from a virtual meeting using an unsupervised approach. The goal is to extract embeddings from images and cluster them to group faces based on the person's identity.
 
@@ -49,6 +38,6 @@ To get started with this project, follow these steps:
 3. Follow the usage instructions below to run the project.
 
 
+
 ## Contributor
 - Paruchuri Murari Pavan Sai
- 
